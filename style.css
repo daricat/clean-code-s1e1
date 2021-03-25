@@ -60,6 +60,9 @@ button:hover {
   color: #3a3a3a;
 }
 /* Heading */
+#add-element h3 {
+  border-bottom: none !important;
+}
 h3,
 label[for="text-new-task"] {
   color: #333;
@@ -92,7 +95,7 @@ label[for="text-new-task"] {
   margin: 0 0 20px;
 }
 #text-new-task {
-  width: 318px;
+  width: 415px;
 }
 p > button:hover {
   color: #0fc57c;
